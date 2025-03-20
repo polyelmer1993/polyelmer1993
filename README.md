@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Annyeong 👋, I'm Elmer Bautista</h1>
+<h1 align="center">Annyeong 👋, I'm Elmer</h1>
 <h3 align="center">A passionate UI/UX & Web Design from Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
