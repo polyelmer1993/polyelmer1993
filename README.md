@@ -19,7 +19,7 @@ I’m a front-end fiend and UI/UX tinkerer—building clean, clickable web magic
 
 ## 🛠️ My Tech Stack
 - **Front End**: HTML, CSS, JavaScript—rock-solid basics.
-- **Frameworks**: React for speed, Vue for flair.
+- **Frameworks**: React for speed, NextJS for flair.
 - **Design**: Figma to mock it up, Tailwind to make it pop.
 - **Tools**: Git keeps me sane, Node.js for fun.
 
