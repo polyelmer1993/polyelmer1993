@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Annyeong 👋, I'm Elmer</h1>
-<h3 align="center">A passionate UI/UX & Web Design from Philippines</h3>
 
-# Hey, I’m Polyelmer1993! 👋
+# Annyeong 👋, I'm Elmer
 
 I’m a front-end fiend and UI/UX tinkerer—building clean, clickable web magic from scratch. Born in ’93, coding for the future.
 
