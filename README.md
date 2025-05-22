@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I’m a front-end fiend and UI/UX tinkerer—building clean, clickable web magic from scratch. Born in ’93, coding for the future.
 
 ## 🛠️ My Tech Stack
-- **Front End**: HTML, CSS, JavaScript—rock-solid basics.
+- **Front End**: HTML, CSS, JavaScript, TypeScript—rock-solid basics.
 - **Frameworks**: React for speed, NextJS for flair.
 - **Design**: Figma to mock it up, Tailwind to make it pop.
-- **Tools**: Git keeps me sane, Node.js for fun.
+- **Tools**: Git keeps me sane, Node.js for fun, cPanel and WHM for hosting like a boss, WordPress WooCommerce for e-commerce vibes, MySQL Workbench for database control.
 
 ## 🚀 What’s Next
 - Cooking up slick UIs and silky code—repos dropping soon.
