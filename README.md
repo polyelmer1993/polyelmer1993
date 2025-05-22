@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Annyeong 👋, I'm Elmer
 
-I’m a front-end fiend and UI/UX tinkerer—building clean, clickable web magic from scratch. Born in ’93, coding for the future.
+I’m a front-end fiend and UI/UX tinkerer—building clean, clickable web magic from scratch. Coding for the future.
 
 ## 🛠️ My Tech Stack
 - **Front End**: HTML, CSS, JavaScript, TypeScript—rock-solid basics.
